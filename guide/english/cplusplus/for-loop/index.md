@@ -109,6 +109,8 @@ Here's the initialization condition is first set to a=10. The loop first checks 
 
 # Range-based for-loop
 C++ also has what we call range-based for loops which iterates through all the elements of a container(e.g. array).
+Range based for loops are usefull especially when you are iterating through containers like sets,vectors maps.
+You can use the auto keyword to declare an iterator for such cases.
 
 ## Syntax
 
